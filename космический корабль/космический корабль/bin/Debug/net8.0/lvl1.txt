@@ -1,0 +1,48 @@
+﻿PPP   p                  p
+PPPP$                    p
+pp   pp                  p
+PPP   p                  p
+PPPPPPP                  p
+pp   pp                  p
+PPP   p                  p
+PPPPPPP                  p
+pp   pp                  p
+PPP   p                  p
+PPPPPPP                  p
+pp   pp                  p
+PPP   p                  p
+PPPPPPP                  p
+pp   pp                  p
+PPP   p                  p
+PPPPPPP                  p
+pp   pp                  p
+PPP   p                  p
+PPPPPPP                  p
+pp   pp                  p
+PPP   p #                p
+PPPPPPP     #            p
+pp   pp                  p
+# P   p                  p
+PPPPPP#                  p
+pp   pp                  p
+ @@@@@ p   @@@@@   @@@@@ p
+P @P@PPP    @ @     @ @  p
+pp   pp                  p
+PPP   p                  p
+PPPPPPP                  p
+                         p
+pp   pp                  p
+PPP   p                  p
+PPPPPPP                  p
+pp   pp                  p
+PPP   p                  p
+PPPPPPP                  p
+pp   pp                  p
+               #         p
+      = =                p
+pp   p===                p
+PPP   = =                p
+PPPPPPP                  p
+pp   pp                  p
+ppp*ppp                  p
+PP*** P                  p

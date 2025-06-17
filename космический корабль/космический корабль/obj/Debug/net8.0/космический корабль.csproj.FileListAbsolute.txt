@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Кирилл Патент\космический корабль\космический корабль\bin\Debug\net8.0\космический корабль.exe
+C:\Users\User\Desktop\Кирилл Патент\космический корабль\космический корабль\bin\Debug\net8.0\космический корабль.deps.json
+C:\Users\User\Desktop\Кирилл Патент\космический корабль\космический корабль\bin\Debug\net8.0\космический корабль.runtimeconfig.json
+C:\Users\User\Desktop\Кирилл Патент\космический корабль\космический корабль\bin\Debug\net8.0\космический корабль.dll
+C:\Users\User\Desktop\Кирилл Патент\космический корабль\космический корабль\bin\Debug\net8.0\космический корабль.pdb
+C:\Users\User\Desktop\Кирилл Патент\космический корабль\космический корабль\obj\Debug\net8.0\космический корабль.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Кирилл Патент\космический корабль\космический корабль\obj\Debug\net8.0\космический корабль.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Кирилл Патент\космический корабль\космический корабль\obj\Debug\net8.0\космический корабль.AssemblyInfo.cs
+C:\Users\User\Desktop\Кирилл Патент\космический корабль\космический корабль\obj\Debug\net8.0\космический корабль.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Кирилл Патент\космический корабль\космический корабль\obj\Debug\net8.0\космический корабль.dll
+C:\Users\User\Desktop\Кирилл Патент\космический корабль\космический корабль\obj\Debug\net8.0\refint\космический корабль.dll
+C:\Users\User\Desktop\Кирилл Патент\космический корабль\космический корабль\obj\Debug\net8.0\космический корабль.pdb
+C:\Users\User\Desktop\Кирилл Патент\космический корабль\космический корабль\obj\Debug\net8.0\космический корабль.genruntimeconfig.cache
+C:\Users\User\Desktop\Кирилл Патент\космический корабль\космический корабль\obj\Debug\net8.0\ref\космический корабль.dll
